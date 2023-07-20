@@ -1,4 +1,4 @@
-Books
+# Books to Read
 -----
 
 History/General
@@ -45,5 +45,5 @@ Eastern Philosophy
 - [ ] Tao Te Ching, Lao Tzu
 - [ ] The Analects, Confucius
 - [ ] Siddhartha, Herman Hesse
-- [ ] Zhuangzi
+- [ ] The Book of Chuang Tzu, Zhuangzi
 - [ ] Mencius
