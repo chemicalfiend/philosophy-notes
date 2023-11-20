@@ -1,18 +1,30 @@
-# Books to Read
+# List of a bunch of books
 -----
 
-History/General
+### Books about Books
+---
 
 - [ ] A History of Western Philosophy, Bertrand Russell
 - [ ] Indian Philosophy Vol 1 and 2, Sarvepalli Radhakrishnan
+- [ ] The Frege Reader
+- [ ] Nietzsche: A Very Short Introduction, Tanner
 
-Western Philosophy
+## Western Philosophy
+---
+
+### Greeks
+---
+
 - [ ] The Republic, Plato
 - [ ] Nicomachean Ethics, Aristotle
 - [ ] Meditations, Marucs Aurelius
+
+### Lot of Modern Philosophy
+---
+
 - [ ] The Prince, Machiavelli
-- [ ] Complete Essays, Francis Bacon
 - [x] Meditations on First Philosophy, Descartes
+- [ ] Complete Essays, Francis Bacon
 - [ ] Leviathan, Hobbes
 - [ ] Theological Political Treatise, Spinoza
 - [ ] Ethics, Spinoza
@@ -20,27 +32,69 @@ Western Philosophy
 - [ ] Second Treatise of Government, Locke
 - [ ] An Essay Concerning Human Understanding, Locke
 - [ ] the Principles of Human Knowledge, Berkeley
-- [ ] An Enquiry Concerning Human Understanding, Hume
 - [ ] The Social Contract, Rousseau
 - [ ] Candide, Voltaire
-- [ ] Critique of Pure Reason, Kant
 - [ ] Phenomenology of Spirit, Hegel
-- [ ] The World as Will and Presentation, Schopenhauer
 - [ ] Elements of the Philosophy of Right, Hegel
 - [ ] Fear and Trembling, Kierkegaard
 - [ ] The Communist Manifesto, Marx
 - [ ] Das Capital Vol 1, Marx
-- [ ] Beyond Good and Evil, Nietzsche
+- [ ] The World as Will and Representation, Schopenhauer
+
+
+### Hume
+---
+
+- [ ] Dialogues Concerning Natural Religion, Hume
+- [ ] Essays Concerning Human Understanding, Hume
+- [ ] Treatise on Human Nature, Hume
+
+
+### Leibniz
+---
+
+- [ ] Philosophical Essays, Leibniz, Ariew, Garber
+- [ ] Leibniz-Arnauld Correspondence
+- [ ] Discourse on Metaphysics, Leibniz
+- [ ] Monadology, Leibniz
+- [ ] Principle of Nature and Grace, Leibniz
+
+### Kant
+---
+
+- [ ] Prolegomena to any Future Metaphysics, Kant
+- [ ] Critique of Pure Reason, Kant
+- [ ] Critique of Practical Reason, Kant
+- [ ] Critique of Judgement, Kant
+
+### Nietzsche
+---
+ 
 - [ ] On the Genealogy of Morals, Nietzsche
+- [ ] Beyond Good and Evil, Nietzsche
+- [ ] The Gay Sciene, Nietzsche
+- [ ] Twilight of the Idols and Antichrist, Nietzsche
+- [ ] Thus Spake Zarathustra, Nietzsche
+
+### Analytic Tradition
+---
+
+- [ ] Sense and Reference, Frege
+- [ ] On Denoting, Russell
+- [ ] Foundations of Arithmetic, Frege
 - [ ] Tractus Logico-Philosophicus, Wittgenstein
 - [ ] Philosophical Investigations, Wittgenstein
 - [ ] Naming and Necessity, Kripke
-- [ ] Foundations of Arithmetic, Frege
+- [ ] Language, Truth and Logic, AJ Ayer
+- [ ] Two Dogmas of Empiricism, Quine
+- [ ] On What There Is, Quine
 
 
-Eastern Philosophy
+## Eastern Philosophy
+--- 
 
 - [ ] Yoga Sutras of Patanjali
+- [ ] The Complete Works of Swami Vivekananda
 - [ ] Bhagvad Gita
 - [ ] Tao Te Ching, Lao Tzu
 - [ ] The Analects, Confucius
