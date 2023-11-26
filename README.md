@@ -8,6 +8,7 @@
 - [ ] Indian Philosophy Vol 1 and 2, Sarvepalli Radhakrishnan
 - [ ] The Frege Reader
 - [ ] Nietzsche: A Very Short Introduction, Tanner
+- [x] The Problems of Philosophy, Russell
 
 ## Western Philosophy
 ---
@@ -31,7 +32,8 @@
 - [ ] Pensees, Pascal
 - [ ] Second Treatise of Government, Locke
 - [ ] An Essay Concerning Human Understanding, Locke
-- [ ] the Principles of Human Knowledge, Berkeley
+- [ ] The Principles of Human Knowledge, Berkeley
+- [ ] Three Dialogues between Hylas and Philonus
 - [ ] The Social Contract, Rousseau
 - [ ] Candide, Voltaire
 - [ ] Phenomenology of Spirit, Hegel
@@ -46,7 +48,7 @@
 ---
 
 - [ ] Dialogues Concerning Natural Religion, Hume
-- [ ] Essays Concerning Human Understanding, Hume
+- [ ] Enquiry Concerning Human Understanding, Hume
 - [ ] Treatise on Human Nature, Hume
 
 
@@ -69,12 +71,26 @@
 
 ### Nietzsche
 ---
- 
-- [ ] On the Genealogy of Morals, Nietzsche
-- [ ] Beyond Good and Evil, Nietzsche
-- [ ] The Gay Sciene, Nietzsche
-- [ ] Twilight of the Idols and Antichrist, Nietzsche
-- [ ] Thus Spake Zarathustra, Nietzsche
+
+Numbers indicate the suggested read order for Nietzsche
+
+The Portable Nietzsche, Walter Kaufmann :
+- [ ] Twilight of the Idols, Nietzsche (1)
+- [ ] Antichrist, Nietzsche (2)
+- [ ] Thus Spoke Zarathustra, Nietzsche (8)
+- [ ] Nietzsche contra Wagner, Nietzsche
+
+The Basic Writings of Nietzsche, Walter Kaufmann :
+- [ ] On the Genealogy of Morality, Nietzsche (7)
+- [ ] Beyond Good and Evil, Nietzsche (6)
+- [ ] The Birth of Tragedy, Nietzsche
+- [ ] The Case of Wagner, Nietzsche
+- [ ] Ecce Homo, Nietzsche
+
+Others:
+- [ ] The Gay Science, Nietzsche (5)
+- [ ] Human, All too Human, Nietzsche (3)
+- [ ] Daybreak, Nietzsche (4)
 
 ### Analytic Tradition
 ---
